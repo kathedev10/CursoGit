@@ -1,5 +1,6 @@
 #Curso de GII
-##Configurar Llaves publicas y privadas
+
+###Configurar Llaves publicas y privadas
 *Se debe tener en cuenta git esta instalado en todo mi entorno local
 *para mirar como esta configurado mi git en local : 
 ```markdown
